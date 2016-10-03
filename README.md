@@ -1,4 +1,4 @@
-#NixOS configuration files.
+# NixOS configuration files
 
 ## config.nix
 
